@@ -24,6 +24,14 @@ _<ins>Ludovico Bianchi</ins>_
 
 Thursday, Oct 17th, 10:30 am, _Cochiti_
 
+### Tutorials
+
+#### Rapid Prototyping for a Usable React-based Web Application with STRUDEL
+
+_<ins>Rajshree Deshmukh</ins>_, _<ins>Cody O'Donnel</ins>_, _<ins>Lavanya Ramakrishnan</ins>_
+
+Oct 9, 11:00 AM - 2:30 PM MT (online)
+
 ## People
 
 - Keith Beattie[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/keith-beattie/))
@@ -31,8 +39,10 @@ Thursday, Oct 17th, 10:30 am, _Cochiti_
 - Mikaela Cashman[^2] ([LinkedIn](https://www.linkedin.com/in/mikaela-cashman-29192588/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=RmtLy-QAAAAJ))
 - Rajshree Deshmukh[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/rajshree-deshmukh/), [GitHub](https://github.com/Rjdesh))
 - Gregory Lemieux[^1] ([LBNL profile](https://profiles.lbl.gov/40594-gregory-lemieux))
+- Cody O'Donnel[^2] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/cody-odonnell/), [GitHub](https://github.com/codytodonnell))
 - Drew Paine[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/pained/))
-- Brad Richardson[^1]([LBNL profile](https://profiles.lbl.gov/372936-bradley-richardson))
+- Lavanua Ramakrishnan ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/about-scidata/office-of-the-director/lavanya-ramakrishnan/), [Google Scholar](https://scholar.google.com/citations?user=D1O_eM4AAAAJ&hl=en))
+- Brad Richardson[^1] ([LBNL profile](https://profiles.lbl.gov/372936-bradley-richardson))
 
 [^1]: attending in-person
 [^2]: attending remotely
