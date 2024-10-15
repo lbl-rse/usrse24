@@ -1,5 +1,5 @@
 # usrse24
-Contributions, resources &amp; other info for the US-RSE'24 conference
+Contributions, resources &amp; other info for the [US-RSE'24](https://us-rse.org/usrse24/) conference taking place Oct 15-17, 2024 in Albuquerque, NM.
 
 ## Contributions
 
