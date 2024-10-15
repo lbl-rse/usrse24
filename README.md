@@ -16,6 +16,11 @@ _<ins>Ludovico Bianchi</ins>_, _Mikaela Cashman_
 
 Poster Board #19
 
+Download the poster:
+
+- [v1 (PNG, 4 MB)](https://drive.google.com/file/d/1tzYG2K42sjFY9xolLa0dH1oIwKF1_iM_/view?usp=sharing)
+- [v1 (PDF, 28 MB)](https://drive.google.com/file/d/1aYTJKfSF8r3GYfpem_H3EkaUyHdJ39tJ/view?usp=sharing)
+
 ### Talks
 
 #### Reproducing notebooks without (too much) effort: a simple but effective automated workflow for US-RSE’24 and beyond using Binder and GitHub Actions
