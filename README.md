@@ -6,9 +6,12 @@ Contributions, resources &amp; other info for the [US-RSE'24](https://us-rse.org
 ### Posters
 
 #### OGRRE: Enabling A Human-in-the-Loop for AI/ML Driven Oil & Gas Data Extraction
+
 _<ins>Rajshree Deshmukh</ins>_, _Dan Gunter_, _Michael Pesce_
 
 Poster Board #11
+
+Download the poster: [PDF](https://drive.google.com/file/d/1Htk0hyjMQD84acwYIgthqOWzOK-ErPNL/view?usp=drivesdk) (10 MB)
 
 #### Exploring the RSE-verse: visualizing the complexity of RSE taxonomy beyond the “research vs software” binary
 
@@ -16,10 +19,7 @@ _<ins>Ludovico Bianchi</ins>_, _Mikaela Cashman_
 
 Poster Board #19
 
-Download the poster:
-
-- [v1 (PNG, 4 MB)](https://drive.google.com/file/d/1tzYG2K42sjFY9xolLa0dH1oIwKF1_iM_/view?usp=sharing)
-- [v1 (PDF, 28 MB)](https://drive.google.com/file/d/1aYTJKfSF8r3GYfpem_H3EkaUyHdJ39tJ/view?usp=sharing)
+Download the poster: [PNG](https://drive.google.com/file/d/1tzYG2K42sjFY9xolLa0dH1oIwKF1_iM_/view?usp=sharing) (4 MB), [PDF](https://drive.google.com/file/d/1aYTJKfSF8r3GYfpem_H3EkaUyHdJ39tJ/view?usp=sharing) (28 MB)
 
 ### Talks
 
