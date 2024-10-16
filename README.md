@@ -49,6 +49,14 @@ Oct 9, 11:00 AM - 2:30 PM MT (online)
 
 Access the slides: [Google Docs](https://docs.google.com/presentation/d/1CmflcN_H_xCFPRV9qp4IjluHUkOvpW7Il5U5naN_emI/edit#slide=id.g307bebfc196_0_10)
 
+### Other
+
+#### US-RSE Working Group Fair
+
+- _Keith Beattie_ (US-RSE Steering Council)
+- _<ins>Gregory Lemieux</ins>_ (National Labs WG)
+- _Hannah Cohoon_, _Drew Paine_, _<ins>Rajshree Deshmukh</ins>_ (User Experience WG)
+
 ## People
 
 - Keith Beattie[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/keith-beattie/))
