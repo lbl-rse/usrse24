@@ -35,6 +35,8 @@ Thursday, Oct 17th, 10:30 am, _Cochiti_
 
 _<ins>Rajshree Deshmukh</ins>_, _<ins>Cody O'Donnel</ins>_, _<ins>Lavanya Ramakrishnan</ins>_
 
+Access the slides: [Google Docs](https://docs.google.com/presentation/d/1CmflcN_H_xCFPRV9qp4IjluHUkOvpW7Il5U5naN_emI/edit#slide=id.g307bebfc196_0_10)
+
 Oct 9, 11:00 AM - 2:30 PM MT (online)
 
 ## People
