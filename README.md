@@ -27,7 +27,17 @@ Download the poster: [PNG](https://drive.google.com/file/d/1tzYG2K42sjFY9xolLa0d
 
 _<ins>Ludovico Bianchi</ins>_
 
-Thursday, Oct 17th, 10:30 am, _Cochiti_
+Thu Oct 17, 10:30 am, _Cochiti_
+
+#### Fortran at NERSC: A Cycle of Support
+
+_<ins>Brad Richardson</ins>_
+
+Wed Oct 16, 1:00 pm, _Hopi/Tewa_
+
+#### Long-time Listener, First-time Caller: My RSE Identity Journey
+
+Wed Oct 16, 1:00 pm, _Cochiti_
 
 ### Tutorials
 
@@ -49,7 +59,7 @@ Access the slides: [Google Docs](https://docs.google.com/presentation/d/1CmflcN_
 - Cody O'Donnel[^2] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/cody-odonnell/), [GitHub](https://github.com/codytodonnell))
 - Drew Paine[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/pained/))
 - Lavanua Ramakrishnan ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/about-scidata/office-of-the-director/lavanya-ramakrishnan/), [Google Scholar](https://scholar.google.com/citations?user=D1O_eM4AAAAJ&hl=en))
-- Brad Richardson[^1] ([LBNL profile](https://profiles.lbl.gov/372936-bradley-richardson))
+- Brad Richardson [^1] ([LBNL profile](https://profiles.lbl.gov/372936-bradley-richardson))
 
 [^1]: attending in-person
 [^2]: attending remotely
