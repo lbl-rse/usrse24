@@ -66,7 +66,7 @@ Access the slides: [Google Docs](https://docs.google.com/presentation/d/1CmflcN_
 - Gregory Lemieux[^1] ([LBNL profile](https://profiles.lbl.gov/40594-gregory-lemieux))
 - Cody O'Donnel[^2] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/cody-odonnell/), [GitHub](https://github.com/codytodonnell))
 - Drew Paine[^1] ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/uds/staff/pained/))
-- Lavanua Ramakrishnan ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/about-scidata/office-of-the-director/lavanya-ramakrishnan/), [Google Scholar](https://scholar.google.com/citations?user=D1O_eM4AAAAJ&hl=en))
+- Lavanya Ramakrishnan ([LBNL staff page](https://crd.lbl.gov/divisions/scidata/about-scidata/office-of-the-director/lavanya-ramakrishnan/), [Google Scholar](https://scholar.google.com/citations?user=D1O_eM4AAAAJ&hl=en))
 - Brad Richardson [^1] ([LBNL profile](https://profiles.lbl.gov/372936-bradley-richardson))
 
 [^1]: attending in-person
